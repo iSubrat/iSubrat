@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @iSubrat
 - 👀 I’m interested in Android Development, Python & AI
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on some opensource projects
 - 📫 How to reach me iSubrat@iCloud.com
 
 <!---
